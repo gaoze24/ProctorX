@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2C235DFE2DA2437A00CF9A6F /* GoogleSignIn in Frameworks */ = {isa = PBXBuildFile; productRef = 2C235DFD2DA2437A00CF9A6F /* GoogleSignIn */; };
 		2C235E002DA2437A00CF9A6F /* GoogleSignInSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 2C235DFF2DA2437A00CF9A6F /* GoogleSignInSwift */; };
+		2CC01B052DA57CD100BB8DE4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2CC01B042DA57CD100BB8DE4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		2C235DC42DA234D300CF9A6F /* ProctorX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProctorX.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C235DD52DA234D500CF9A6F /* ProctorXTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProctorXTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C235DDF2DA234D500CF9A6F /* ProctorXUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProctorXUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CC01B042DA57CD100BB8DE4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -86,6 +88,7 @@
 				2C235DD82DA234D500CF9A6F /* ProctorXTests */,
 				2C235DE22DA234D500CF9A6F /* ProctorXUITests */,
 				2C235DC52DA234D300CF9A6F /* Products */,
+				2CC01B042DA57CD100BB8DE4 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -224,6 +227,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CC01B052DA57CD100BB8DE4 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
